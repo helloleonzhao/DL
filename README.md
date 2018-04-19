@@ -1,7 +1,9 @@
 # Deep Learning Specialization on Coursera
 
-I'm taking Deep Learning class taught by Prof. Andrew Ng at Coursera. 
+I'm taking Deep Learning class taught by Prof. Andrew Ng at Coursera.
+
 I found a very similar curriculum at this repository, https://github.com/Kulbear/deep-learning-coursera 
+
 I created a previate branch and only posted my code after each assignment's due date.
 
 ## Programming Assignments
