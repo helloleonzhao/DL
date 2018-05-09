@@ -11,7 +11,9 @@ I found a very similar curriculum at this repository, https://github.com/Kulbear
 
 I created a previate branch and only posted my code after each assignment's due date.
 
-Notes: One of my homework Autonomous Driving Application was referred to https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb
+Notes: YOLO implementation in Autonomous Driving Application was referred to 
+- https://github.com/shaoanlu/deeplearning.ai-Convolutional-Neural-Networks/blob/master/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v1.ipynb
+- https://www.coursera.org/learn/convolutional-neural-networks/discussions/weeks/3/threads/_MA5qhk0Eei8-woEuRumpA
 
 ## Programming Assignments
 
