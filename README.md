@@ -2,10 +2,11 @@
 
 I'm taking Deep Learning class taught by Prof. Andrew Ng at Coursera.
 
-Course 1, 2 and 3 were completed. Working on Course 4 and 5 now.
+Course 1, 2, 3 and 4 were completed. Working on the last one Course 4 5 now.
  - Course 1 certificate: https://www.coursera.org/account/accomplishments/certificate/LTTPM9T9WBE6
  - Course 2 certificate: https://www.coursera.org/account/accomplishments/certificate/7GL8Y5RUBA8T
  - Course 3 certificate: https://www.coursera.org/account/accomplishments/certificate/WA9FQM6DBBMF
+ - Course 4 certificate: https://www.coursera.org/account/accomplishments/certificate/HNFGLC3NSCJF
 
 I found a very similar curriculum at this repository, https://github.com/Kulbear/deep-learning-coursera 
 
